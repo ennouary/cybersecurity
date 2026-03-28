@@ -1,0 +1,43 @@
+# Web Pentesting Lab – 2026
+
+## Description
+This project presents a personal web penetration testing laboratory conducted in a controlled environment for cybersecurity training and skill development purposes.
+
+## Objectives
+- Perform vulnerability scanning on web applications
+- Identify common security weaknesses
+- Simulate network attacks in a safe lab environment
+- Analyze captured network traffic
+- Provide remediation recommendations
+
+## Tools Used
+- Nmap
+- Wireshark
+- SQLMap
+- Acunetix
+- Ettercap
+
+## Vulnerabilities Tested
+- SQL Injection
+- Cross-Site Scripting (XSS)
+- Server misconfigurations
+- Man-in-the-Middle (MITM) attack simulation
+
+## Methodology
+1. Target reconnaissance
+2. Vulnerability scanning
+3. Exploitation simulation
+4. Network traffic analysis
+5. Security recommendations
+
+## Results
+- Identification of common web vulnerabilities
+- Packet capture and traffic inspection
+- Risk prioritization
+- Practical mitigation recommendations
+
+## Lab Environment
+Personal isolated lab environment (Kali Linux + vulnerable virtual machines).
+
+## Disclaimer
+This project was conducted in a controlled lab environment strictly for educational purposes.
